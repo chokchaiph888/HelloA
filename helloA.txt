@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello A 
 test
+=======
+hello B
+>>>>>>> 7c4a6ca (Edit to hello B)
